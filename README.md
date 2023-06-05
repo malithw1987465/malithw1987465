@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/malithw1987465/malithw1987465/blob/main/Black%20Technology%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Malith Jayasundara</h1>
 <h3 align="center">A passionate Computer Science Undergraduate from Sri Lanka</h3>
 <img align="right"  alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
