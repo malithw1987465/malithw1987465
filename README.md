@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java,React,Boostrap,Python,Mysql,CSS,Html,Javascript,Project Management**
 
-- 📝 I regularly write articles on [https://medium.com/@malithpriyashan2002jayasundara](@malithpriyashan2002jayasundara)
+- 📝 I regularly write articles on [medium.com/@malithpriyashan2002jayasundara](@malithpriyashan2002jayasundara)
 
 - 💬 Ask me about **Project Management,Web Developement**
 
