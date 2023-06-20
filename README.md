@@ -108,6 +108,8 @@
 
   <img src="https://streak-stats.demolab.com?user=malithw1987465&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=11&order=3" height="185" alt="streak graph"  />
 </div>
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
 ###
 
