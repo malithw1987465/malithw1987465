@@ -21,7 +21,7 @@
 <p align="left">
 🌱 I’m currently learning Java,React,Boostrap,Python,Mysql,CSS,Html,Javascript,Project Management<br><br>👨‍💻 All of my projects are available at https://github.com/malithw1987465<br><br>📝 I regularly write articles on medium.com/@malithpriyashan2002jayasundara
 
-<br><br>💬 Ask me about Project Management,Web Developement<br><br>📫 How to reach me malithjayasundara2002@gmail.com</p>
+<br>💬 Ask me about Project Management,Web Developement<br><br>📫 How to reach me malithjayasundara2002@gmail.com</p>
 
 ###
 
