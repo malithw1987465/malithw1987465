@@ -102,10 +102,9 @@
 ###
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malithw1987465&show_icons=true&theme=github_dark&hide_border=false&border_radius=11&order=3&locale=en&layout=compact" alt="malithw1987465" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malithw1987465&show_icons=true&theme=github_dark&hide_border=false&locale=en&layout=compact" alt="malithw1987465" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malithw1987465&show_icons=true&theme=github_dark&hide_border=false&locale=en" alt="malithw1987465" /></p>
-
 
   <img src="https://streak-stats.demolab.com?user=malithw1987465&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=11&order=3" height="185" alt="streak graph"  />
 </div>
